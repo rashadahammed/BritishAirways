@@ -1,4 +1,4 @@
-![image](https://github.com/rashadahammed/BritishAirways/assets/112516181/aa41c0d7-e67b-4a68-96ea-c5fbf121ade8)![image](https://github.com/rashadahammed/BritishAirways/assets/112516181/8b7412e8-aca9-41ff-aa1a-b3a45a52049c)# British Airways Internship Project
+
 
 
 British Airways (BA) is the flag carrier airline of the United Kingdom (UK). Every day, thousands of BA flights arrive to and depart from the UK, carrying customers across the world. Whether it’s for holidays, work or any other reason, the end-to-end process of scheduling, planning, boarding, fuelling, transporting, landing, and continuously running flights on time, efficiently and with top-class customer service is a huge task with many highly important responsibilities.
@@ -20,6 +20,8 @@ Once you have your dataset, you need to prepare it. The data will be very messy 
 3. Present insights
 Your manager would like you to summarise your findings within a single PowerPoint slide, so that they can present the results at the next board meeting. You should create visualisations and metrics to include within this slide, as well as clear and concise explanations in order to quickly provide the key points from your analysis. Use the “PowerPoint Template” provided to complete the slide.
 
+![image](https://github.com/rashadahammed/BritishAirways/assets/112516181/aa41c0d7-e67b-4a68-96ea-c5fbf121ade8)
+
 # Task 2:
 
 **Build a predictive model to understand factors that influence buying behaviour**
@@ -32,3 +34,5 @@ When your data is ready for modelling, you should train a machine learning model
 
 3. Evaluate model and present findings
 After training your model, you should evaluate how well it performed by conducting cross-validation and outputting appropriate evaluation metrics. Furthermore, you should create a visualisation to interpret how each variable contributed to the model. Finally, you should summarise your findings in a single slide to be sent to your manager. Use the “PowerPoint Template” provided in the Resources section below to create your summary and make use of the links provided to help with this task.
+
+![image](https://github.com/rashadahammed/BritishAirways/assets/112516181/aa41c0d7-e67b-4a68-96ea-c5fbf121ade8)
